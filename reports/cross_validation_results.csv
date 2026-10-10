@@ -1,0 +1,7 @@
+model,cv_mae_mean,cv_mae_std,cv_folds
+Multiple linear regression,4234.98356987558,277.2791904412289,5
+Ridge + polynomial degree 2,4319.137315964501,266.7480596292204,5
+Polynomial regression (degree 3),4325.225972558474,298.07175218502033,5
+Polynomial regression (degree 2),4326.93903719199,263.05562146988984,5
+Dummy baseline (mean),9007.093488760109,326.0556849091974,5
+Simple linear (age only),9048.28083952834,222.00049168008223,5
